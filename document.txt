@@ -1,1 +1,2 @@
 add a new file: document.txt
+update new content for this file
